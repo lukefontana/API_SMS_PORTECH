@@ -1,4 +1,4 @@
-# SMS_API_PORTECH (ASP)
+# API_SMS_PORTECH (ASP)
 API para el envio de SMS a traves de terminales PORTECH
 
 Esta API, otorga la posibilidad de utilizar la capacidad de envio de SMS de las terminales PORTECH - MV 37XX
