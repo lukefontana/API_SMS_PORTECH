@@ -1,7 +1,7 @@
 <?php  
 error_reporting(E_ALL);
 
-include 'api_sms_portech.php';
+include 'api/api_sms_portech.php';
 
 EnviarSMS('1131242954','Testing metodos 1a','2954','1301','1');
 EnviarSMS('1131242954','Testing metodos 1b','2954','1301','2');
