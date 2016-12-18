@@ -3,12 +3,6 @@ error_reporting(E_ALL);
 
 include 'api/api_sms_portech.php';
 
-EnviarSMS('1131242954','Testing metodos 1a','2954','1301','1');
-EnviarSMS('1131242954','Testing metodos 1b','2954','1301','2');
-EnviarSMS('1131242954','Testing metodos 2a','2954','1302','1');
-EnviarSMS('1131242954','Testing metodos 2b','2954','1302','2');
-EnviarSMS('1131242954','Testing metodos 2b','2954','1302','2');
-
 
 //Parametros de la funcion EnviarSMS:
 /*
@@ -18,5 +12,12 @@ EnviarSMS('1131242954','Testing metodos 2b','2954','1302','2');
 4) Puerto de la central que usaremos
 5) GSM Slot del puerto (1 y 2)
 */
+
+EnviarSMS('1131242954','Testing metodos 1a','2954','1301','1');
+EnviarSMS('1131242954','Testing metodos 1b','2954','1301','2');
+EnviarSMS('1131242954','Testing metodos 2a','2954','1302','1');
+EnviarSMS('1131242954','Testing metodos 2b','2954','1302','2');
+EnviarSMS('1131242954','Testing metodos 2b','2954','1302','2');
+
 
 ?>  
